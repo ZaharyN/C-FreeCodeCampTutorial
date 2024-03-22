@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Switch.cpp">
+    <ClCompile Include="ForLoop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
