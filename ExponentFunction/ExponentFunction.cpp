@@ -28,4 +28,6 @@ int main()
 
 	cout << "The result: ";
 	cout << power(number, powerNumber);
+
+	return 0;
 }
