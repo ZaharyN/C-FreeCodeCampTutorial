@@ -28,6 +28,4 @@ int main()
 	else {
 		cout << "You guessed right!";
 	}
-
-	
 }
