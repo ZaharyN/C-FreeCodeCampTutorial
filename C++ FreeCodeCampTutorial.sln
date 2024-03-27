@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Object Functions", "Object 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Getters and setters", "Getters and setters\Getters and setters.vcxproj", "{6F9461E3-E961-4289-B78E-86439A0D104E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InputChaining", "InputChaining\InputChaining.vcxproj", "{8E37E454-7CC9-4143-B591-1B405BC44866}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,18 @@ Global
 		{6F9461E3-E961-4289-B78E-86439A0D104E}.Release|x64.Build.0 = Release|x64
 		{6F9461E3-E961-4289-B78E-86439A0D104E}.Release|x86.ActiveCfg = Release|Win32
 		{6F9461E3-E961-4289-B78E-86439A0D104E}.Release|x86.Build.0 = Release|Win32
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Debug|Any CPU.Build.0 = Debug|x64
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Debug|x64.ActiveCfg = Debug|x64
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Debug|x64.Build.0 = Debug|x64
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Debug|x86.Build.0 = Debug|Win32
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Release|Any CPU.ActiveCfg = Release|x64
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Release|Any CPU.Build.0 = Release|x64
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Release|x64.ActiveCfg = Release|x64
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Release|x64.Build.0 = Release|x64
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Release|x86.ActiveCfg = Release|Win32
+		{8E37E454-7CC9-4143-B591-1B405BC44866}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
