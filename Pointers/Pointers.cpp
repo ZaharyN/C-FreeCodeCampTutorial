@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int age = 7;
-    int *pAge = &age;
+    int* pAge = &age;
 
     double years = 25;
     double *pYears = &years;
